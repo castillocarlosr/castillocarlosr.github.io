@@ -1,0 +1,106 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+  background-color: rgb(11, 124, 168) 
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 15px;
+  display: block;
+  width: 1100px;
+  color:rgb(38, 4, 70);
+  background-color: aqua;
+  text-align: center;
+  font-size:25px;
+  display: block;
+  text-align:center;
+}
+
+nav {
+  line-height:;
+  background-color:rgb(224, 135, 33);
+  width:150px;
+  display: inline-block;
+  vertical-align: top;
+  display: block;
+  width: 135px;
+  height: 1800px;
+  display: inline-block;
+  font-size: 23px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+#list{
+  list-style-type: circle;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+  color: yellow;
+  display:inline-block;
+  padding: 20px;
+  width:640px;
+  font-size: 20px;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
+
+
+#lake{
+  margin-bottom: 10px;
+  width:800px;
+}
+
+#warning{
+  width:600px;
+  margin-bottom: 15px;
+  margin:15px
+}
+
+#cycle{
+  margin-bottom: 15px;
+  width: 500px;
+
+}
+
+#skin{
+  margin:15px;
+  width:350px;
+}
+
+#water{
+  width:200px;
+  height:120px;
+}
